@@ -3693,7 +3693,6 @@ How does garbage collection work in JavaScript?
 
 ## Resources
 
-- Original questions inspired by [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - Refactored and organized for interview preparation
 - All questions include detailed explanations and difficulty ratings
 
